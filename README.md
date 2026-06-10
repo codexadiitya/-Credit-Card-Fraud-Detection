@@ -130,7 +130,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Aditya Diwan**
 - 📧 Email: aditydiwan2005@gmail.com
-- 🐙 GitHub: [@aditydiwan](https://github.com/aditydiwan)
+- 🐙 GitHub:
+- (https://github.com/aditydiwan)
 
 ---
 
